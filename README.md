@@ -1,4 +1,4 @@
-![IMG-20250729-WA0038](https://github.com/user-attachments/assets/639ab47c-4212-4d29-9aa9-327d8e9f2039)# Healthcare Appointment App 🏥
+# Healthcare Appointment App 🏥
 
 A Flutter-based mobile application for booking medical appointments, built with GetX state management.
 
