@@ -74,9 +74,20 @@ flutter run
 ##Screenshots
 
 
-
+<img src="https://github.com/user-attachments/assets/52e00e39-1e46-4293-b3ae-5110dc77ca67" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/80cd0f25-43d9-421f-b12c-d797f10deec0" width="200" height="400" />
 <img src="https://github.com/user-attachments/assets/52e00e39-1e46-4293-b3ae-5110dc77ca67" width="200" height="400" />
 
+<img src="https://github.com/user-attachments/assets/52e00e39-1e46-4293-b3ae-5110dc77ca67" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/52e00e39-1e46-4293-b3ae-5110dc77ca67" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/52e00e39-1e46-4293-b3ae-5110dc77ca67" width="200" height="400" />
+
+<img src="https://github.com/user-attachments/assets/52e00e39-1e46-4293-b3ae-5110dc77ca67" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/52e00e39-1e46-4293-b3ae-5110dc77ca67" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/52e00e39-1e46-4293-b3ae-5110dc77ca67" width="200" height="400" />
+
+<img src="https://github.com/user-attachments/assets/52e00e39-1e46-4293-b3ae-5110dc77ca67" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/52e00e39-1e46-4293-b3ae-5110dc77ca67" width="200" height="400" />
 ## Architecture 🏗
 
 - **MVVM Architecture** with GetX
