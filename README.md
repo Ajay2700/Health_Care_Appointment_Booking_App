@@ -90,6 +90,16 @@ flutter run
 <img src="https://github.com/user-attachments/assets/e73b1047-1bb7-4001-8640-6bc92beb57d5" width="200" height="400" />
 
 
+
+https://github.com/user-attachments/assets/26563950-222a-4e56-a23b-37b128440f36
+
+
+
+https://github.com/user-attachments/assets/98e39a23-b198-46ec-860b-caa8e9dc10e9
+
+
+
+
 ## Architecture 🏗
 
 - **MVVM Architecture** with GetX
