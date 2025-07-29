@@ -1,4 +1,4 @@
-![IMG-20250729-WA0030](https://github.com/user-attachments/assets/23c33ae5-7ca3-4f24-9797-4d0dd3581875)# Healthcare Appointment App 🏥
+# Healthcare Appointment App 🏥
 
 A Flutter-based mobile application for booking medical appointments, built with GetX state management.
 
@@ -74,7 +74,7 @@ flutter run
 ##Screenshots
 
 ![IMG-20250729-WA0030](https://github.com/user-attachments/assets/52e00e39-1e46-4293-b3ae-5110dc77ca67)
-![]((https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+![]((https://github.com/user-attachments/assets/52e00e39-1e46-4293-b3ae-5110dc77ca67 | width=100)
 
 ## Architecture 🏗
 
