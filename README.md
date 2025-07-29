@@ -73,8 +73,6 @@ flutter run
 ```
 ##Screenshots
 
-![IMG-20250729-WA0035](https://github.com/user-attachments/assets/e73b1047-1bb7-4001-8640-6bc92beb57d5)
-
 
 <img src="https://github.com/user-attachments/assets/52e00e39-1e46-4293-b3ae-5110dc77ca67" width="200" height="400" />
 <img src="https://github.com/user-attachments/assets/80cd0f25-43d9-421f-b12c-d797f10deec0" width="200" height="400" />
