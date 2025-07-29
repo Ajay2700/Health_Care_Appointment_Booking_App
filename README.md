@@ -74,7 +74,8 @@ flutter run
 ##Screenshots
 
 ![IMG-20250729-WA0030](https://github.com/user-attachments/assets/52e00e39-1e46-4293-b3ae-5110dc77ca67)
-![]((https://github.com/user-attachments/assets/52e00e39-1e46-4293-b3ae-5110dc77ca67 | width=100)
+
+![](https://github.com/user-attachments/assets/52e00e39-1e46-4293-b3ae-5110dc77ca67 | width=100)
 
 ## Architecture 🏗
 
